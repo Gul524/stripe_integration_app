@@ -1,4 +1,4 @@
 abstract class Stripeconstraint {
-  static String publishable = "pk_test_51QndbvP1NR50SPsgErefhkEnQAo8oapdxO5osl94zbfTtApIwNIe6ZGp00jSiH3EQ0wBvvQCeC13A0nlFsUY6uHq005zBQ0KMy";
-  static String secret_key = "sk_test_51QndbvP1NR50SPsgMLdcbDYjYPWQweTARDbBlXDaJhoArXdzctwJdSrPh6xrGq8JMqJk5brs2a4gGnTDJ0JGw6i900v08R0Cyu";
+  static String publishable = "your key";
+  static String secret_key = "your key";
 }
